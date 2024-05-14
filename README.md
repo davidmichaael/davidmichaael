@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidmichaael
 - 👀 I’m interested in playing sports, reading books and learning new things!
-- 🌱 I’m currently a student taking Master of Business Analytics in Macquarie University.
+- 🌱 I’m currently a student taking Master of Business Analytics at Macquarie University.
 
 <!---
 davidmichaael/davidmichaael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
