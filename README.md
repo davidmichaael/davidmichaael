@@ -1,7 +1,7 @@
 # Hi, I’m David 👋
 
 I’m a developer and analytics enthusiast based in Sydney, Australia.  
-Postgraduate from Macquarie University majoring in Business Analytics.
+Postgraduate from Macquarie University majoring in Business Analytics.  
 I work with Python, data analytics, and real-world problem solving.
 
 ---
@@ -31,9 +31,10 @@ I’m currently building and improving analytical and programming projects for c
 
 ## 📫 Connect
 - GitHub: https://github.com/davidmichaael  
-- Email: davidmchael@gmail.com
+- Email: davidmchael@gmail.com 
 
 Looking forward to connecting or collaborating!
+
 
 
 <!---
