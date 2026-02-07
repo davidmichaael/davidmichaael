@@ -1,7 +1,7 @@
 # Hi, I’m David 👋
 
 I’m a developer and analytics enthusiast based in Sydney, Australia.  
-Postgraduate from Macquarie University majoring in Business Analytics
+Postgraduate from Macquarie University majoring in Business Analytics.
 I work with Python, data analytics, and real-world problem solving.
 
 ---
